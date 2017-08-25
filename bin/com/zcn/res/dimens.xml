@@ -1,0 +1,120 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dimen_devider_listview">2px</dimen>
+    <dimen name="dimen_item_height_listview">48dp</dimen>
+    <dimen name="dimen_item_textsize_listview">18sp</dimen>
+    <dimen name="dimen_item_listview_text_marginleft">16dp</dimen>
+    <dimen name="dimen_item_listview_edit_marginleft">16dp</dimen>
+    <dimen name="dimen_item_listview_image_marginright">16dp</dimen>
+
+    <!-- 标题栏尺寸数据 -->
+    <dimen name="dimen_title_bar_height">60dp</dimen>
+    <dimen name="dimen_title_bar_image_back">30dp</dimen>
+    <dimen name="dimen_title_bar_image_back_marginleft">8dp</dimen>
+    <dimen name="dimen_title_bar_text_size">20sp</dimen>
+    <dimen name="dimen_title_bar_gps_size">12sp</dimen>
+    <dimen name="dimen_title_bar_gps_margintop">10dp</dimen>
+    <dimen name="dimen_title_bar_gps_marginright">5dp</dimen>
+    <dimen name="dimen_title_bar_gps_padding">3dp</dimen>
+    <dimen name="dimen_tab_item_text_size">13sp</dimen>
+
+
+    <!-- ViewPage尺寸数据 -->
+    <dimen name="dimen_viewpage_tab_height">60dp</dimen>
+
+    <!-- 故障界面尺寸数据-->
+    <dimen name="dimen_diagnosis_host_error_text_size">30sp</dimen>
+    <dimen name="dimen_diagnosis_fault_code_text_size">20sp</dimen>
+    <dimen name="dimen_diagnosis_clear_btn_text_size">20sp</dimen>
+    <dimen name="dimen_diagnosis_dialog_info_text_size">30sp</dimen>
+    <dimen name="dimen_diagnosis_image_error3_margintop_size">4dp</dimen>
+    <dimen name="dimen_diagnosis_image_error3_marginleft_size">210dp</dimen>
+    <dimen name="dimen_diagnosis_image_error4_margintop_size">38dp</dimen>
+    <dimen name="dimen_diagnosis_image_error4_marginleft_size">73dp</dimen>
+    <dimen name="dimen_diagnosis_image_error5_margintop_size">33dp</dimen>
+    <dimen name="dimen_diagnosis_image_error5_marginleft_size">166dp</dimen>
+
+    <!-- 加热器界面尺寸数据-->
+    <dimen name="dimen_heater_text_size_preset_temperature">18sp</dimen>
+    <dimen name="dimen_heater_text_size_current_temperature">22sp</dimen>
+    <dimen name="dimen_heater_text_size_air_mode">16sp</dimen>
+    <dimen name="dimen_heater_text_size_manual_mode">16sp</dimen>
+    <dimen name="dimen_heater_arcprogress_width">220dp</dimen>
+    <dimen name="dimen_heater_arcprogress_height">220dp</dimen>
+    <dimen name="dimen_heater_arcprogress_arc_width">20dp</dimen>
+    <dimen name="dimen_heater_width_close_btn">120dp</dimen>
+    <dimen name="dimen_heater_height_close_btn">120dp</dimen>
+
+    <!-- 定时界面尺寸数据-->
+    <dimen name="dimen_clocking_week_number_text_size">20sp</dimen>
+    <dimen name="dimen_clocking_colon_text_size">50sp</dimen>
+    <dimen name="dimen_clocking_np_select_text_size">24sp</dimen>
+    <dimen name="dimen_clocking_np_unselect_text_size">20sp</dimen>
+
+    <!-- 参数设置界面尺寸数据 -->
+    <dimen name="dimen_paramset_imageview_text_size">5sp</dimen>
+    <dimen name="dimen_paramset_manual_text_size">16sp</dimen>
+    <dimen name="dimen_paramset_ensure_btn_text_size">20sp</dimen>
+    <dimen name="dimen_paramset_ensure_btn_height">48dp</dimen>
+    <dimen name="dimen_paramset_ensure_btn_width">144dp</dimen>
+    <dimen name="dimen_paramset_edittext_padding">5dp</dimen>
+
+    <!-- 设置界面尺寸数据 -->
+    <dimen name="dimen_setting_imageview_text_size">5sp</dimen>
+
+    <!-- 数字/图形密码界面尺寸数据 -->
+    <dimen name="dimen_digit_machine_code_edittext">18sp</dimen>
+    <dimen name="dimen_graph_machine_code_arcLayout_axisradius">144dp</dimen>
+    <dimen name="dimen_graph_machine_code_arcLayout_radius">165dp</dimen>
+    <dimen name="dimen_graph_machine_code_choose_button_width">48dp</dimen>
+    <dimen name="dimen_graph_machine_code_choose_button_height">48dp</dimen>
+
+    <!-- 机器状态界面尺寸数据 -->
+    <dimen name="dimen_host_status_msg_text_magintop">24dp</dimen>
+    <dimen name="dimen_host_status_textview_height">48dp</dimen>
+    <dimen name="dimen_host_status_textview_text_size">18sp</dimen>
+    <dimen name="dimen_host_status_textview_padding">5dp</dimen>
+
+    <!-- 机器状态界面尺寸数据 -->
+    <dimen name="dimen_password_textview_maginleft">16dp</dimen>
+
+    <!-- 分享界面尺寸数据 -->
+    <dimen name="dimen_share_textview_text_size">20sp</dimen>
+    <dimen name="dimen_share_textview_marginbottom">20dp</dimen>
+
+    <!-- 轨迹界面尺寸数据 -->
+    <dimen name="dimen_track_picker_height">48dp</dimen>
+    <dimen name="dimen_track_separator_text_size">20sp</dimen>
+    <dimen name="dimen_track_ensure_button_margintop">10dp</dimen>
+    <dimen name="dimen_track_map_height">300dp</dimen>
+    <dimen name="dimen_track_map_margin">10dp</dimen>
+    <dimen name="dimen_track_linearlayout_height">48dp</dimen>
+    <dimen name="dimen_track_linearlayout_margin">5dp</dimen>
+    <dimen name="dimen_track_progress_ibutton_marginleft">5dp</dimen>
+    <dimen name="dimen_track_progress_height">15dp</dimen>
+    <dimen name="dimen_track_progress_margin">5dp</dimen>
+
+    <!-- 自定义dialog界面尺寸数据 -->
+    <dimen name="dimen_dialog_height">180dp</dimen>
+    <dimen name="dimen_dialog_title_layout_height">60dp</dimen>
+    <dimen name="dimen_dialog_btn_layout_height">60dp</dimen>
+    <dimen name="dimen_dialog_btn_height">40dp</dimen>
+    <dimen name="dimen_dialog_btn_width">114dp</dimen>
+    <dimen name="dimen_dialog_cancelbtn_marginleft">20dp</dimen>
+    <dimen name="dimen_dialog_msg_layout_height">60dp</dimen>
+    <dimen name="dimen_dialog_msg_text_size">20sp</dimen>
+    <dimen name="dimen_dialog_picker_layout_height">140dp</dimen>
+    <dimen name="dimen_dialog_spinner_height">48dp</dimen>
+    <dimen name="dimen_dialog_spinner_width">96dp</dimen>
+    <dimen name="dimen_dialog_spinner_margin">5dp</dimen>
+    <dimen name="dimen_dialog_spinner_checktext_padding">10dp</dimen>
+    <dimen name="dimen_dialog_spinner_checktext_textsize">20sp</dimen>
+
+    <dimen name="control_size">56dp</dimen>
+    <dimen name="min_height">32dp</dimen>
+    <dimen name="min_bar_width">0.8dp</dimen>
+    <dimen name="default_font_size">14sp</dimen>
+
+</resources>
